@@ -1,0 +1,7 @@
+namae : our first workflwo
+on : push
+job : 
+  echo : 
+    runs-on: ubuntu-latest
+        steps:
+          - run : echo "hello, github actions!'
